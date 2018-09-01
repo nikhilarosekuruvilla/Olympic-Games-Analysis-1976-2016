@@ -13,7 +13,7 @@ The modern [Olympic Games](https://www.olympic.org) or Olympics are leading inte
 To analyze and understand trends of Olympic games across countries over the years. 
 
 ## Link to Python Notebook
-
+[Click here](http://nbviewer.jupyter.org/github/nikhilarosekuruvilla/Olympic-Games-Analysis-1976-2016/blob/master/Python%20notebook/Olympics.ipynb)
 
 ## Links to Dataset
 * [Historical Olympics data](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results):
