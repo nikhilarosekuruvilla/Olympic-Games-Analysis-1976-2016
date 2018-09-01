@@ -58,7 +58,9 @@ This dataset was used to get full country name from its NOC.
 > ### 3rd Visualization-I: Gender Equality at Olympics
 ![figure4](https://github.com/nikhilarosekuruvilla/Olympic-Games-Analysis-1976-2016/blob/master/Visualizations/Male%20vs%20Female%20medal%20winners%20over%20the%20years.png)
 1. Over time, the number of medals for females have increased  which in turn says number of events for females have increased while the number of events for males have remained consistent.
-    * This shows that the number of events allowing female participation have increased in the last ten years, showing more respect and accepatance to women at Olympic games when compared to older times. 
+    * In the early days of the Olympic Games, many countries limited the amount of female competitors they would send because they would incur the cost of paying for a chaperone, which was not necessary for the male athletes.
+    * The International Olympic Committee then took initiative to bring gender equality in Olympic events and formed Women in Sports Commission as a part of this effort.
+    * This resulted in an increase in the number of events allowing female participation, showing that women are getting more respect and acceptance at Olympic games when compared to older times. 
     
 > ### 3rd Visualization-II: Sex ratio of USA, Russia & Germany at Olympics
 
