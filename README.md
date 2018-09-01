@@ -47,7 +47,7 @@ This dataset was used to get full country name from its NOC.
     
 > ###  2nd Visualization: Medal Conversion Rate 
 
-![figure2](https://github.com/nikhilarosekuruvilla/Olympic-Games-Analysis-1976-2016/blob/master/Visualizations/Medal%20to%20Participant%20ratio%20of%20Countries.png)
+![figure2](https://github.com/nikhilarosekuruvilla/Olympic-Games-Analysis-1976-2016/blob/master/Visualizations/Medal%20Conversion%20rate%20of%20Countries.png)
 1. We can see that the three countries with most number of medals(U.S, Russia, Germany) have the highest participant to medal conversion ratio as well. But, what's interesting to note is that Ethiopia, Kenya, Cuba, Jamaica and Netherlands have high conversion ratio but are not present in the top 10 coutries with the highest number of medals.
     * This could be because they are specialised in certain sports where they have very talented athletes along with considerable advantage on their genetic side as well. 
     * For example, if we take Ethiopia or Kenya, athletics, especially long distance running(5000, 10000, marathons), is their forte. It's scientifically proven that the lean and light body of East Africans favour them against the rest of the world.
