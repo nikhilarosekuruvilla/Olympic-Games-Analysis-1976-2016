@@ -45,7 +45,7 @@ This dataset was used to get full country name from its NOC.
     * This is probably because, for them it's less expensive and they have better infrastructure compared to tropical countries to  train their atheletes for Winter Olympics events.    
     * Most of the countries winning in Winter games are those countries away from the equator or those with colder climates than rest of the world.    
     
-> ### 2nd Visualization: Conversion rate to medals
+> ###  2nd Visualization: Medal Conversion Rate 
 
 ![figure2](https://github.com/nikhilarosekuruvilla/Olympic-Games-Analysis-1976-2016/blob/master/Visualizations/Medal%20to%20Participant%20ratio%20of%20Countries.png)
 1. We can see that the three countries with most number of medals(U.S, Russia, Germany) have the highest participant to medal conversion ratio as well. But, what's interesting to note is that Ethiopia, Kenya, Cuba, Jamaica and Netherlands have high conversion ratio but are not present in the top 10 coutries with the highest number of medals.
